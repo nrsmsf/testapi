@@ -12,7 +12,7 @@
 
 <a href="api.php?search=CRI"> <button>CRI</button></a> <br>
 
-<a href="api.php?search='DSWL"> <button>DSWL</button></a> <br>
+<a href="api.php?search=DSWL"> <button>DSWL</button></a> <br>
 
 <a href="api.php?search=EDUC"> <button>EDUC</button></a> <br>
 
