@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 class Div
 {
 	public function get(){
-		$data = file_get_contents('http://nrsmsf.ru/oop/testapi/div.csv');
+		$data = file_get_contents('div.csv');
 		$data = explode("\r", $data);
 		return $data;
 	}
@@ -29,5 +29,4 @@ class Div
     }
 
 }
-
 
