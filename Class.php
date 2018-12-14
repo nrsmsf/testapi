@@ -1,4 +1,4 @@
-<pre>
+
 <?php
 error_reporting(E_ALL);
 
@@ -30,11 +30,4 @@ class Div
 
 }
 
-$obj = new Div;
-print_r($obj->parse());
 
-?>
-
-
-
-</pre>
