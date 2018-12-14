@@ -52,8 +52,8 @@ function getTicket($needle, $haystack){
             }
 
     }
-    if ($value['ticker'] !== $needle) {
+
         $a = ['error'=>'ticker not found'];
         return $a;
-    }
+    
 }
